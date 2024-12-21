@@ -1,0 +1,25 @@
+Alicia, Shakira, Darya, Jenny, Kim, Marie, Paulina, Sabrina, Sandra, Stefanie
+Danilo, Elia, Emanuell, Fabio, Marvin, Mike, Paco, Peter, Steffen, Teezy, Max
+Max
+
+MN:
+3, Darya+Danilo, Sandra+Paco, Paulina+Steffen, Shakira+Marvin, Kim+Mike, Sabrina+Emanuell, Jenny+Elia, Marie+Fabio, Stefanie+Teezy, Alicia+Peter
+2, Sabrina+Mike, Paulina+Danilo, Kim+Paco, Alicia+Steffen, Jenny+Marvin, Stefanie+Teezy, Darya+Emanuell, Marie+Fabio, Shakira+Peter, Sandra+Elia
+2, Alicia+Steffen, Sabrina+Peter, Sandra+Paco, Shakira+Fabio, Marie+Elia, Darya+Danilo, Stefanie+Marvin, Paulina+Mike, Kim+Teezy, Jenny+Emanuell
+4, Sandra+Steffen, Paulina+Max, Marie+Elia, Alicia+Teezy, Darya+Danilo, Shakira+Fabio, Sabrina+Paco, Kim+Peter, Stefanie+Emanuell, Jenny+Marvin
+3, Paulina+Mike, Kim+Teezy, Shakira+Paco, Stefanie+Elia, Jenny+Marvin, Sandra+Max, Alicia+Steffen, Sabrina+Emanuell, Marie+Fabio, Darya+Danilo
+4, Alicia+Paco, Sandra+Steffen, Paulina+Mike, Jenny+Marvin, Shakira+Fabio, Marie+Elia, Sabrina+Peter, Stefanie+Emanuell, Kim+Teezy, Darya+Danilo
+3, Stefanie+Elia, Marie+Steffen, Kim+Teezy, Sabrina+Emanuell, Shakira+Max, Paulina+Marvin, Jenny+Paco, Alicia+Fabio, Sandra+Mike, Darya+Danilo
+1, Sandra+Fabio, Stefanie+Mike, Alicia+Paco, Jenny+Marvin, Kim+Max, Shakira+Steffen, Sabrina+Emanuell, Paulina+Teezy, Marie+Elia, Darya+Danilo
+6, Sabrina+Mike, Jenny+Max, Paulina+Paco, Marie+Fabio, Shakira+Marvin, Alicia+Steffen, Kim+Teezy, Sandra+Elia, Stefanie+Emanuell, Darya+Danilo
+10, Shakira+Marvin, Sabrina+Mike, Kim+Teezy, Marie+Fabio, Sandra+Steffen, Paulina+Max, Jenny+Paco, Alicia+Elia, Stefanie+Emanuell, Darya+Danilo
+MB:
+0, Jenny+Danilo
+0, Jenny+Elia
+0, Darya+Elia
+0, Kim+Mike
+1, Darya+Danilo
+0, Alicia+Teezy
+0, Sabrina+Max
+1, Stefanie+Emanuell
+1, Alicia+Elia

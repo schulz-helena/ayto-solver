@@ -1,0 +1,24 @@
+Anastasia, Asena, Dana, Emmy, Gabriela, Jennifer, Laura L., Laura M., Linda, Nadja, Tara
+Alex, Antonino, Chris, Kaan, Lars, Lukas, Marc-Robin, Nikola, Ozan, Tim
+Dana
+
+MN:
+2, Linda+Tim, Jennifer+Lukas, Tara+Nikola, Nadja+Lars, Asena+Kaan, Emmy+Chris, Laura L.+Alex, Anastasia+Marc-Robin, Gabriela+Ozan, Laura M.+Antonino
+3, Dana+Antonino, Jennifer+Alex, Anastasia+Lars, Nadja+Kaan, Linda+Tim, Asena+Marc-Robin, Laura L.+Ozan, Tara+Nikola, Laura M.+Lukas, Emmy+Chris
+3, Jennifer+Kaan, Anastasia+Alex, Asena+Marc-Robin, Dana+Tim, Nadja+Antonino, Linda+Lukas, Laura M.+Ozan, Laura L.+Nikola, Gabriela+Lars, Emmy+Chris
+1, Tara+Lars, Laura M.+Ozan, Nadja+Antonino, Anastasia+Nikola, Asena+Kaan, Laura L.+Tim, Gabriela+Lukas, Jennifer+Alex, Linda+Marc-Robin, Emmy+Chris
+5, Dana+Ozan, Anastasia+Marc-Robin, Tara+Kaan, Asena+Antonino, Laura L.+Nikola, Gabriela+Alex, Jennifer+Lukas, Linda+Tim, Nadja+Lars, Emmy+Chris
+6, Jennifer+Lukas, Laura M.+Marc-Robin, Dana+Lars, Linda+Tim, Asena+Antonino, Gabriela+Alex, Nadja+Nikola, Tara+Kaan, Anastasia+Ozan, Emmy+Chris
+6, Linda+Tim, Dana+Lukas, Gabriela+Alex, Laura L.+Lars, Asena+Antonino, Tara+Kaan, Nadja+Nikola, Laura M.+Marc-Robin, Anastasia+Ozan, Emmy+Chris
+7, Tara+Lukas, Laura M.+Marc-Robin, Nadja+Nikola, Jennifer+Kaan, Gabriela+Alex, Laura L.+Lars, Asena+Antonino, Linda+Tim, Anastasia+Ozan, Emmy+Chris
+10, Laura L.+Nikola, Gabriela+Alex, Laura M.+Marc-Robin, Asena+Antonino, Tara+Lukas, Nadja+Kaan, Jennifer+Lars, Linda+Tim, Anastasia+Ozan, Emmy+Chris
+MB:
+0, Laura L.+Marc-Robin
+1, Emmy+Chris
+-
+0, Asena+Marc-Robin
+-
+1, Anastasia+Ozan
+0, Jennifer+Lukas
+1, Linda+Tim
+0, Laura L.+Lars
